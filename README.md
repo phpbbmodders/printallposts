@@ -10,6 +10,17 @@ Lets users who can print topics in a forum print every post in a topic on one pa
 - phpBB's print view shows one page of posts at a time. **Print all** shows every post in the topic on a single printable page.
 - Uses phpBB's existing **Can print topic** forum permission. Users without it don't see the link and can't open the page.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><a href="docs/images/screenshots/printallposts-topic-tools.png"><img src="docs/images/screenshots/printallposts-topic-tools.png" width="440" height="79" alt="The Print all link in the Topic tools menu, under Print view"></a><br>Print all in the Topic tools menu</td>
+    <td align="center"><a href="docs/images/screenshots/printallposts-print.png"><img src="docs/images/screenshots/printallposts-print.png" width="440" height="226" alt="The print page showing all four posts of a topic that spans two pages"></a><br>Every post on one printable page</td>
+  </tr>
+</table>
+
+Click a screenshot for the full size.
+
 ## Requirements
 
 - phpBB 3.3.19 or later
