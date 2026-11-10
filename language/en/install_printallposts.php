@@ -37,5 +37,5 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, [
 	'PRINTALLPOSTS_DISABLE_OLD'		=> 'Disable the old “%s” extension first. Keep its data; do not delete it.',
-	'PRINTALLPOSTS_NOT_ENABLEABLE'	=> 'Print All Posts could not be enabled. The minimum requirements of phpBB 3.3.19 and/or PHP 8.3.36 were not satisfied.',
+	'PRINTALLPOSTS_NOT_ENABLEABLE'	=> 'Print All Posts could not be enabled. The minimum requirements of phpBB 3.3.19 and/or PHP 8.1 were not satisfied.',
 ]);
